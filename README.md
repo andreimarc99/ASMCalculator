@@ -2,6 +2,6 @@
 Simple calculator implemented in ASM x86
 
 Input:
-a/operator/b=
+a{+-*/}b=
 
-/operator/b= will perform the operation on the last result.
+{+-*/}b= will perform the operation on the last result.
